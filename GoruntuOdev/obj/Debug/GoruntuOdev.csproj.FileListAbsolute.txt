@@ -1,0 +1,39 @@
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\bin\Debug\GoruntuOdev.exe.config
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\bin\Debug\GoruntuOdev.exe
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\bin\Debug\GoruntuOdev.pdb
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.csprojResolveAssemblyReference.cache
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.Form1.resources
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.Properties.Resources.resources
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.csproj.GenerateResource.Cache
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.exe
+c:\users\erkan\documents\visual studio 2015\Projects\GoruntuOdev\GoruntuOdev\obj\Debug\GoruntuOdev.pdb
+C:\Users\Erkan\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.exe.config
+C:\Users\Erkan\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.exe
+C:\Users\Erkan\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.pdb
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.exe.config
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.exe
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.pdb
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.csprojResolveAssemblyReference.cache
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.Form1.resources
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.Properties.Resources.resources
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.csproj.GenerateResource.Cache
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.exe
+E:\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.pdb
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.exe.config
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.exe
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.pdb
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.exe
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\bin\Debug\GoruntuOdev.pdb
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.Form1.resources
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\352601-Erkan ONĞUR-Görüntü İşleme Ödevi\GoruntuOdev\obj\Debug\GoruntuOdev.csproj.GenerateResource.Cache
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\bin\Debug\GoruntuOdev.exe.config
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\bin\Debug\GoruntuOdev.exe
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\bin\Debug\GoruntuOdev.pdb
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.csprojResolveAssemblyReference.cache
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.Form1.resources
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.Properties.Resources.resources
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.csproj.GenerateResource.Cache
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.exe
+C:\ERKAN\KTU\Image Processing\GoruntuOdev\obj\Debug\GoruntuOdev.pdb
